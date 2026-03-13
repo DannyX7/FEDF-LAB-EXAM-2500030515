@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "../styles/registration.css"
 export default function EventRegistration() {
 
   const [eventUser, setEventUser] = useState({

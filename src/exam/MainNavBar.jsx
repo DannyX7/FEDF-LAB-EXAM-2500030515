@@ -4,7 +4,7 @@ import Home from "./Home";
 import ApiData from "./ApiData";
 import ViewEvents from "./ViewEvents";
 import EventRegistration from "./EventRegistration";
-
+import "../styles/navbar.css"
 export default function MainNavBar() {
   return (
     <div>
