@@ -11,7 +11,7 @@ export default function MainNavBar() {
 
       <nav>
         <Link to="/">Home </Link>
-        <Link to="/registration">Register </Link>
+        <Link to="/registration">Event Registration </Link>
         <Link to="/display">View Events </Link>
         <Link to="/api-data">API Data</Link>
       </nav>
